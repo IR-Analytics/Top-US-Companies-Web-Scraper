@@ -60,10 +60,10 @@ Make sure to update the CSV path based on your own directory when reusing the co
 
 ```python
 df.to_csv(r'YOUR/PATH/HERE/companies.csv', index=False)
+```
+-----
 
----
-
-## ✅ What I Learned
+✅ What I Learned
 - Navigating HTML elements
 
 - Extracting data from structured tables
@@ -75,7 +75,7 @@ df.to_csv(r'YOUR/PATH/HERE/companies.csv', index=False)
 
 ------
 
-## 💡 Next Steps
+💡 Next Steps
 In future versions, I plan to:
 
 - Scrape multiple tables/pages
